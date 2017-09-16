@@ -1,0 +1,10 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 5048-142A
+
+ Directory of C:\Users\Richa\Desktop\PJT
+
+09/16/2017  02:27 PM    <DIR>          .
+09/16/2017  02:27 PM    <DIR>          ..
+09/16/2017  02:27 PM                 0 t1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   5,981,990,912 bytes free
